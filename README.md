@@ -1,4 +1,4 @@
-# Gerador de Relatório CSV
+# 📊 Gerador de Relatório CSV
 
 Projeto desenvolvido em Java para registrar produtos e gerar automaticamente um arquivo CSV compatível com o Excel.
 
